@@ -22,8 +22,8 @@ Build a RESTful service that generates the round robin schedule for the PRO-Kaba
 
 # Step-3: Test
 - Add team using below api 
-  - http://localhost:8080/prokabadi/team/add/ -> single Add - HttpMethodType.POST
-  - http://localhost:8080/prokabadi/team/add/all -> bulk addd - HttpMethodType.POST
+  - "http://localhost:8080/prokabadi/team/add/" -> single Add - HttpMethodType.POST
+  - "http://localhost:8080/prokabadi/team/add/all" -> bulk addd - HttpMethodType.POST
     e.g 
       [  
          {  
@@ -52,4 +52,4 @@ Build a RESTful service that generates the round robin schedule for the PRO-Kaba
         }
      ]
 - Generate Schedule using below url
-   http://localhost:8080/prokabadi/schedule/generate/2019-03-04 11:30 - HttpMethodType - Get
+   "http://localhost:8080/prokabadi/schedule/generate/2019-03-04 11:30" - HttpMethodType - Get
