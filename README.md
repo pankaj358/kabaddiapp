@@ -8,7 +8,7 @@ Build a RESTful service that generates the round robin schedule for the PRO-Kaba
 # ======== Solution =======
 
 # Step-1: Build
-- Clone GIT Repository locally using this URL : https:XXXXXXXXXXXXXXXXXXXXXX.git
+- Clone GIT Repository locally using this URL ->  https://github.com/pankaj358/kabaddiapp.git
 - Import project in eclipse as maven/spring/springboot
 - Open console for parent folder 
 - Fire "run mvn clean & build"
